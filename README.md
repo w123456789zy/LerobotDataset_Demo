@@ -1,0 +1,11 @@
+# LerobotDataset_Demo
+介绍LerobotDataset的使用方法
+LerobotDataset_demo.py是一个简单的demo，展示了如何复现简单的LerobotDataset
+load_lerobot_dataset.py是一个简单的demo，展示了如何加载LerobotDataset
+use_dataset_image_transform.py是一个简单的demo，展示了如何使用LerobotDataset的image_transform
+使用方法：
+```
+python LerobotDataset_demo.py
+python load_lerobot_dataset.py
+python use_dataset_image_transform.py
+```

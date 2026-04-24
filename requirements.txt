@@ -1,0 +1,6 @@
+lerobot
+numpy
+pandas
+torch
+torchvision
+Pillow
